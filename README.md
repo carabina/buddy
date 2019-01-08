@@ -1,6 +1,6 @@
 [![Swift version](https://img.shields.io/badge/swift-4.1-red.svg)](https://swift.org/blog/swift-4-1-released/)
 
-# buddy
+![alt text](https://raw.githubusercontent.com/mattiacantalu/buddy/master/Buddy/buddyLogo.png)
 
 Buddy is unofficial (simple) buddybuild client based on public APIs.
 
